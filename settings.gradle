@@ -1,0 +1,6 @@
+rootProject.name = 'kotiki'
+include 'dao'
+include 'service'
+include 'dao'
+include 'service'
+
